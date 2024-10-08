@@ -2,10 +2,10 @@ import csv
 import os
 
 # File path for the dataset
-file_path = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\04_Challenge\Python-Challenge\pybank\Resources\budget_data.csv"
+file_path = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\03_Challenge\Python-Challenge\pybank\Resources\budget_data.csv"
 
 # Specify the directory where you want to save the output file
-output_directory = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\04_Challenge\Python-Challenge\pybank\Analysis"
+output_directory = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\03_Challenge\Python-Challenge\pybank\Analysis"
 output_file_path = os.path.join(output_directory, "financial_analysis.txt")
 
 # Initialize variables
