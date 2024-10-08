@@ -2,8 +2,8 @@ import csv
 import os
 
 # Define the file paths
-input_file_path = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\04_Challenge\Python-Challenge\pypoll\Resources\election_data.csv"
-output_folder_path = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\04_Challenge\Python-Challenge\pypoll\Analysis" 
+input_file_path = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\03_Challenge\Python-Challenge\pypoll\Resources\election_data.csv"
+output_folder_path = r"C:\Users\jayne\OneDrive\Desktop\Class Homework\03_Challenge\Python-Challenge\pypoll\Analysis" 
 output_file = os.path.join(output_folder_path, 'election_results.txt')
 
 # Initialize variables
